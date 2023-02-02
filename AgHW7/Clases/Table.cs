@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Drawing;
+using System.Drawing.Point;
 
 
 
@@ -11,7 +12,7 @@ namespace AgHW7.Clases
         internal int Width;
         internal int Height;
         internal int Angle;
-        internal Point TopLeft;
+        public Point TopLeft;
         internal Point TopRight;
         private static int WidthMax = 3;
         private static int HeightMax = 3;

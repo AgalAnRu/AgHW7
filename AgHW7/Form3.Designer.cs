@@ -1,4 +1,4 @@
-﻿namespace AgHW7.Clases
+﻿namespace AgHW7
 {
     partial class Form3
     {

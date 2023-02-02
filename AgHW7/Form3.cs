@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace AgHW7.Clases
+namespace AgHW7
 {
     public partial class Form3 : Form
     {
