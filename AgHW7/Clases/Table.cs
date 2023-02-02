@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Drawing;
 
+
 namespace AgHW7.Clases
 {
     internal class Table
