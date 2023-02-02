@@ -13,6 +13,7 @@ namespace AgHW7.Clases
         internal int Height;
         internal int Angle;
         internal Point TopLeft;
+        internal Point TopRight;
         private static int WidthMax = 3;
         private static int HeightMax = 3;
         private static int AriaMax = 6;
